@@ -1,4 +1,5 @@
 # Token Fucker by Asylum
+#### Version: 1.0
 
 My Discord Server: [Join!](https://dsc.gg/asxlvm)
 Slayer's Tool Server: [Join!](https://dsc.gg/externalnuker)
