@@ -2,3 +2,4 @@ colorama
 requests
 rich
 datetime
+pyfiglet
