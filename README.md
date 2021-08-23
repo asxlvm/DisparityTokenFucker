@@ -1,4 +1,9 @@
 # Token Fucker by Asylum
+
+![](https://img.shields.io/badge/Python-3.5--3.8-green)
+![GitHub stars](https://img.shields.io/github/stars/asxlvm/DisparityTokenFucker)
+[![Run on Repl.it](https://repl.it/badge/github/asxlvm/DisparityTokenFucker)](https://repl.it/github/asxlvm/DisparityTokenFucker)
+
 #### Version: 1.1
 
 > Example Video of v1.0: [here](https://youtu.be/zwCMeJSkuYc)
