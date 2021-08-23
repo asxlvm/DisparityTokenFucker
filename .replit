@@ -1,0 +1,2 @@
+language = "python3"
+run = "clear; python3 tokenfucker.py"
