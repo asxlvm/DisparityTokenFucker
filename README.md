@@ -26,3 +26,21 @@ Slayer's Tool Server: [Join!](https://dsc.gg/externalnuker)
 
 - 1. Press the Run on Replit button
 - 2. Press Run
+
+## Changelog
+
+#### Version 1.0 (Aug 22, 2021)
+- **Initial release**
+- __Added:__
+> Removes/leaves every guild
+> Closes every DM and removes every friend
+> Changes bio, avatar and banner color
+> Changes client settings (language, theme etc.)
+
+#### Version 1.1 (Aug 23, 2021)
+- **Small update**
+- __Added:__
+> Faster guild removing 
+> Added blocking every user the account was in contact with
+> "Proper" ratelimit-handling
+> Support for running on Replit
