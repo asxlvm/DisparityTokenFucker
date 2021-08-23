@@ -1,6 +1,8 @@
 # Token Fucker by Asylum
 #### Version: 1.0
 
+> Example Video of v1.0: [here](https://youtu.be/zwCMeJSkuYc)
+
 My Discord Server: [Join!](https://dsc.gg/asxlvm)
 Slayer's Tool Server: [Join!](https://dsc.gg/externalnuker)
 
