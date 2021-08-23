@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/asxlvm/DisparityTokenFucker)
 [![Run on Repl.it](https://repl.it/badge/github/asxlvm/DisparityTokenFucker)](https://repl.it/github/asxlvm/DisparityTokenFucker)
 
-#### Version: 1.1
+#### Version: 1.2
 
 > Example Video of v1.0: [here](https://youtu.be/zwCMeJSkuYc)
 
@@ -40,7 +40,12 @@ Slayer's Tool Server: [Join!](https://dsc.gg/externalnuker)
 #### Version 1.1 (Aug 23, 2021)
 - **Small update**
 - __Added:__
-    - Faster guild removing 
+    - Faster guild removing & leaving
+
+#### Version 1.2 (Aug 23, 2021)
+- **Medium update**
+- __Added:__
+    - Faster friend removing
     - Added blocking every user the account was in contact with
     - "Proper" ratelimit-handling
     - Support for running on Replit
