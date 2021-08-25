@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/asxlvm/DisparityTokenFucker)
 [![Run on Repl.it](https://repl.it/badge/github/asxlvm/DisparityTokenFucker)](https://repl.it/github/asxlvm/DisparityTokenFucker)
 
-#### Version: 1.2
+#### Version: 2.0
 
 > Example Video of v1.0: [here](https://youtu.be/zwCMeJSkuYc)
 
@@ -49,3 +49,12 @@ Slayer's Tool Server: [Join!](https://dsc.gg/externalnuker)
     - Added blocking every user the account was in contact with
     - "Proper" ratelimit-handling
     - Support for running on Replit
+
+#### Version 2.0
+- **Big update**
+- __Added:__
+    - Actually closes DMs
+    - Leaves every groupchat
+    - Changed logging to basic prints for compatibility (removed one big dependency)
+    - Adds icon to spam-created servers
+    - Added a settings system so you can change the settings of the Token Fucker
