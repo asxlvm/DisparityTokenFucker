@@ -6,7 +6,8 @@
 
 #### Version: 2.0
 
-> Example Video of v1.0: [here](https://youtu.be/zwCMeJSkuYc)
+Example Video of v1.0: [here](https://youtu.be/zwCMeJSkuYc)
+Example Video of v2.0: [here](https://youtu.be/mBxeAJG6OgA)
 
 My Discord Server: [Join!](https://dsc.gg/asxlvm)
 Slayer's Tool Server: [Join!](https://dsc.gg/externalnuker)
