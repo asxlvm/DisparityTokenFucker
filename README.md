@@ -1,3 +1,8 @@
+# FOR EDUCATIONAL PURPOSES ONLY, USE AT YOUR OWN RISK, IS AGAINST DISCORD TOS
+
+
+
+
 # Token Fucker by Asylum
 
 ![](https://img.shields.io/badge/Python-3.5--3.8-green)
