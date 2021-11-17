@@ -3,16 +3,13 @@
 
 
 
-# Token Fucker by Asylum
+# Token Fricker
 
 ![](https://img.shields.io/badge/Python-3.5--3.8-green)
 ![GitHub stars](https://img.shields.io/github/stars/asxlvm/DisparityTokenFucker)
 [![Run on Repl.it](https://repl.it/badge/github/asxlvm/DisparityTokenFucker)](https://repl.it/github/asxlvm/DisparityTokenFucker)
 
 #### Version: 2.0
-
-My Discord Server: [Join!](https://dsc.gg/asxlvm)
-Slayer's Tool Server: [Join!](https://dsc.gg/externalnuker)
 
 ## How to Install
 
